@@ -1,4 +1,6 @@
 ## Hi there 👋
+- I am a Japanese student.
+- I was born in 2009.
 
 <!--
 **hiro1234omochi/hiro1234omochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
